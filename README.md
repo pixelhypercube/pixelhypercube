@@ -1,14 +1,17 @@
 ## Hi there 👋 I'm Kai Jie (KJ) (PixelHyperCube)
 
 #### Where am I studying?
-- 🏫  Singapore Polytechnic (Diploma in Information Technology)
+- 🏫  Singapore Polytechnic (Diploma in Information Technology) (2nd year)
 #### My programming experience
 - 📅  Started learning programming in late 2018 (almost 2 years of experience)
-- 📖  Aspire to learn as many things as possible
-- 👨‍💻  Enjoy developing tools and programs
+- 📖  Aspires to learn as many things as possible
+- 👨‍💻  Enjoys developing tools and programs
 #### My other hobbies (apart from programming):
-- 🎮  Minecraft
-- 🏃  Running
+- 🎮  Video Games (especially Minecraft)
+- 🏃  Running (distance running)
+- 📖  Reading (usually online articles)
+- 🧮  Mathematics (exploring different concepts)
+- 🌎 Languages (learning it just for fun, mostly self learning Japanese (日本語) at the moment!)
 #### What I want to do in the future:
 - 🎓  Planning to apply for university (after I've completed my polytechnic diploma and NS)
 
