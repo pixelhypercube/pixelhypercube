@@ -25,10 +25,8 @@ You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</
 - Minecraft has been my all-time favorite game since late 2012 (coming close to 9 years!)
 - I like to cook fried rice during my free time
 - I used to be pretty perfectionistic when I was younger, but not really right now.
-  - For instance, I would suffer emotionally if I didn't get the grades I wanted in school, but I think I'm better at coping with it right now.
-- Maths was my favorite subject in school
-  - It's my 2nd favorite right now as computing wasn't taught in my school at the time
-- I think I'm a cat person, but I'm allergic to cats after doing an allergy test as a child
+- Maths was my favorite subject in school (Now my 2nd fav as computing is now my fav thing to study)
+- I think I'm a cat person, but I'm tested that I'm allergic to cats as a child
 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=pixelhypercube&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
