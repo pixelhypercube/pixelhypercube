@@ -15,6 +15,7 @@
 #### What I want to do in the future:
 - 🎓  Planning to apply for university (after I've completed my polytechnic diploma and NS)
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=pixelhypercube&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pixelhypercube/pixelhypercube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
