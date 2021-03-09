@@ -3,7 +3,7 @@
 #### Where am I studying?
 - 🏫  Singapore Polytechnic (Diploma in Information Technology) (2nd year)
 #### My programming experience
-- 📅  Started learning programming in late 2018 (around 2 years of experience)
+- 📅  Started learning programming in late 2018 (around 2.5 years of experience)
 - 📖  Aspires to learn as many things as possible
 - 👨‍💻  Enjoys developing tools and programs
 #### My other hobbies (apart from programming):
