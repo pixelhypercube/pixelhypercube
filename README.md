@@ -1,4 +1,4 @@
-## Welcome! 👋 
+<h1 style="text-align:center;">Welcome! 👋</h1>
 
 I'm <strong>Kai Jie</strong>, currently studying in Singapore Polytechnic who has a passion in computers and is curious about the vast depths of IT.
 You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</strong> (my gaming name) if you want 😉
