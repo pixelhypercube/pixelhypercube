@@ -14,7 +14,9 @@ You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</
 - 🏃  Running (distance running)
 - 📖  Reading (usually online articles)
 - 🧮  Mathematics (exploring different concepts)
-- 🌎 Languages (learning it just for fun, mostly self learning Japanese (日本語) at the moment!)
+- 🌎  Languages (learning it just for fun, mostly self learning Japanese (日本語) at the moment!)
+- 🎵  Listening To Music (mostly videogame music)
+- <img width="24px" src="https://user-images.githubusercontent.com/54231827/110572301-1b69e600-8194-11eb-88e5-c20d2e855794.png"/>   Watching Youtube Videos (very random videos)
 #### What I want to do in the future:
 - 🎓  Planning to apply for university (after I've completed my polytechnic diploma and NS)
 
@@ -22,10 +24,10 @@ You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</
 | #  | Fact |
 | ------------- | ------------- |
 | 1  | I may want to add 'Kendric' to my name in the future  |
-| 2  | My personality type at the moment is INTJ (Architect), according to https://www.16personalities.com/ <br> - And the personality type doesn't define me - it's just for information purposes|
+| 2  | My personality type at the moment is INTJ (Architect), according to https://www.16personalities.com/ <br> - And the personality type doesn't define me - it's just for information purposes |
 | 3  | Minecraft has been my all-time favorite game since late 2012 (coming close to 9 years!) |
 | 4  | I like to cook fried rice during my free time |
-| 5  | I used to be pretty perfectionistic when I was younger, but not really right now |
+| 5  | I used to be very perfectionistic when I was younger, but I've learned how to manage it better right now |
 | 6  | Maths was my favorite subject in school (Now my 2nd fav as computing is now my fav thing to study) |
 | 7  | I think I'm a cat person, but I'm tested that I'm allergic to cats as a child |
 | 8  | I'm a tea drinker, but not a coffee drinker |
