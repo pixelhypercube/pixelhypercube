@@ -20,18 +20,18 @@ You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</
 #### What I want to do in the future:
 - 🎓  Planning to apply for university (after I've completed my polytechnic diploma and NS)
 
-#### Some random facts about me:
+### Some random facts about me:
 | #  | Fact |
 | ------------- | ------------- |
-| 1  | I may want to add 'Kendric' to my name in the future  |
-| 2  | Also, since I'm learning Japanese, Kentaroh Cho (張　健太郎) (ちょう　けんたろう) is my unofficial placeholder Japanese name at the moment  |
-| 3  | My personality type at the moment is INTJ (Architect), according to https://www.16personalities.com/ <br> - And the personality type doesn't define me - it's just for information purposes |
-| 4  | Minecraft has been my all-time favorite game since late 2012 (coming close to 9 years!) |
-| 5  | I like to cook fried rice during my free time |
-| 6  | I used to be very perfectionistic when I was younger, but I've learned how to manage it better right now |
-| 7  | Maths was my favorite subject in school (Now my 2nd fav as computing is now my fav thing to study) |
-| 8  | I think I'm a cat person, but I'm tested that I'm allergic to cats as a child |
-| 9  | I'm a tea drinker, but not a coffee drinker |
+| 1  | I may want to add 'Kendric' to my name in the future.  |
+| 2  | Also, since I'm interested in learning Japanese, Kentaroh Cho (張　健太郎) (ちょう　けんたろう) is my unofficial placeholder Japanese name at the moment.  |
+| 3  | My personality type at the moment is INTJ (Architect), according to https://www.16personalities.com/ <br> - And the personality type doesn't define me - it's just for information purposes. |
+| 4  | Minecraft has been my all-time favorite game since late 2012 (coming close to 9 years!). 🎮 |
+| 5  | I like to cook fried rice during my free time. 🧑‍🍳 |
+| 6  | I used to be very perfectionistic when I was younger, but I've learned how to manage it better right now. |
+| 7  | Maths was my favorite subject in school (Now my 2nd fav as computing is now my fav thing to study). 🧮 |
+| 8  | I think I'm a cat person, but I'm tested that I'm allergic to cats as a child. 😺 |
+| 9  | I'm a tea drinker, but not a coffee drinker. 🍵 |
 
 ### My Github Stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=pixelhypercube&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
