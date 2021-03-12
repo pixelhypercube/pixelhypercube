@@ -24,7 +24,7 @@ You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</
 | #  | Fact |
 | ------------- | ------------- |
 | 1  | I may want to add 'Kendric' to my name in the future  |
-| 2  | Also, since I'm learning Japanese, my placeholder Japanese name at the moment is Kentaroh Cho (張　健太郎) (ちょう　けんたろう)  |
+| 2  | Also, since I'm learning Japanese, Kentaroh Cho (張　健太郎) (ちょう　けんたろう) is my unofficial placeholder Japanese name at the moment  |
 | 3  | My personality type at the moment is INTJ (Architect), according to https://www.16personalities.com/ <br> - And the personality type doesn't define me - it's just for information purposes |
 | 4  | Minecraft has been my all-time favorite game since late 2012 (coming close to 9 years!) |
 | 5  | I like to cook fried rice during my free time |
