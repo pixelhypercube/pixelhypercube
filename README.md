@@ -1,7 +1,7 @@
-<h1 style="text-align:center;">Welcome! 👋</h1>
+<h1 align="center">Welcome! I'm Kai Jie (张凯杰) 👋</h1>
 
-I'm <strong>Kai Jie</strong>, currently studying in Singapore Polytechnic who has a passion in computers and is curious about the vast depths of IT.
-You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</strong> (my gaming name) if you want 😉
+I'm currently a student studying in Singapore Polytechnic who has a passion in computers and is curious about the vast depths of IT.
+You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</strong> (my gaming name) if you want 😉!
 
 #### Where am I studying?
 - 🏫  Singapore Polytechnic (Diploma in Information Technology) (3rd year)
@@ -13,7 +13,7 @@ You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</
 - 🎮  Video Games (especially Minecraft)
 - 🏃  Running (distance running)
 - 📖  Reading (usually online articles)
-- 🧮  Mathematics (exploring different concepts)
+- 🧮  Mathematics (curious about different concepts)
 - 🌎  Languages (learning it just for fun, mostly self learning Japanese (日本語) at the moment!)
 - 🎵  Listening To Music (mostly videogame music)
 - <img width="24px" src="https://user-images.githubusercontent.com/54231827/110572301-1b69e600-8194-11eb-88e5-c20d2e855794.png"/>   Watching Youtube Videos (very random videos)
@@ -24,13 +24,14 @@ You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</
 | #  | Fact |
 | ------------- | ------------- |
 | 1  | I may want to add 'Kendric' to my name in the future  |
-| 2  | My personality type at the moment is INTJ (Architect), according to https://www.16personalities.com/ <br> - And the personality type doesn't define me - it's just for information purposes |
-| 3  | Minecraft has been my all-time favorite game since late 2012 (coming close to 9 years!) |
-| 4  | I like to cook fried rice during my free time |
-| 5  | I used to be very perfectionistic when I was younger, but I've learned how to manage it better right now |
-| 6  | Maths was my favorite subject in school (Now my 2nd fav as computing is now my fav thing to study) |
-| 7  | I think I'm a cat person, but I'm tested that I'm allergic to cats as a child |
-| 8  | I'm a tea drinker, but not a coffee drinker |
+| 2  | Also, since I'm learning Japanese, my placeholder Japanese name at the moment is Kentaroh Cho (張　健太郎) (ちょう　けんたろう)  |
+| 3  | My personality type at the moment is INTJ (Architect), according to https://www.16personalities.com/ <br> - And the personality type doesn't define me - it's just for information purposes |
+| 4  | Minecraft has been my all-time favorite game since late 2012 (coming close to 9 years!) |
+| 5  | I like to cook fried rice during my free time |
+| 6  | I used to be very perfectionistic when I was younger, but I've learned how to manage it better right now |
+| 7  | Maths was my favorite subject in school (Now my 2nd fav as computing is now my fav thing to study) |
+| 8  | I think I'm a cat person, but I'm tested that I'm allergic to cats as a child |
+| 9  | I'm a tea drinker, but not a coffee drinker |
 
 ### My Github Stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=pixelhypercube&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
