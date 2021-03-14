@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi! I'm Kai Jie (张凯杰) 👋</h1>
 
-I'm currently a student from Singapore who is currently studying in Singapore Polytechnic with passion in computers and is curious about the vast depths of IT.
+I'm currently a student from Singapore who is currently studying at Singapore Polytechnic with a passion for computers and is curious about vast depths of IT.
 I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</strong> (my gaming name)! 😉
 
 #### Where am I studying?
@@ -18,7 +18,7 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 - 🎵  Listening To Music (mostly videogame music)
 - <img width="20px" src="https://user-images.githubusercontent.com/54231827/110572301-1b69e600-8194-11eb-88e5-c20d2e855794.png"/>   Watching Youtube Videos (very random videos)
 #### What I want to do in the future:
-- 🎓  Planning to apply for university (after I've completed my polytechnic diploma and NS)
+- 🎓  Planning to apply for university (after I've finishing my polytechnic diploma and NS)
 
 ### Technologies and Programs
 
