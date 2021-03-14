@@ -1,11 +1,31 @@
 <h1 align="center">👋 Hi! I'm Kai Jie (张凯杰) 👋</h1>
 
-I'm currently a student studying in Singapore Polytechnic who has a passion in computers and is curious about the vast depths of IT.
-You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</strong> (my gaming name) if you want 😉!
+I'm currently a student from Singapore who is currently studying in Singapore Polytechnic with passion in computers and is curious about the vast depths of IT.
+I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</strong> (my gaming name)! 😉
+
+#### Where am I studying?
+- 🏫  Singapore Polytechnic (Diploma in Information Technology) (3rd year)
+#### My programming experience
+- 📅  Started learning programming in late 2018 (around 2.5 years of experience)
+- 📖  Aspires to learn as many things as possible
+- 👨‍💻  Enjoys developing tools and programs
+#### My other hobbies (apart from programming):
+- 🎮  Video Games (mostly Minecraft)
+- 🏃  Running (distance running)
+- 📖  Reading (usually online articles)
+- 🧮  Mathematics (curious about different concepts)
+- 🌎  Languages (learning it just for fun, mostly self learning Japanese (日本語) at the moment!)
+- 🎵  Listening To Music (mostly videogame music)
+- <img width="24px" src="https://user-images.githubusercontent.com/54231827/110572301-1b69e600-8194-11eb-88e5-c20d2e855794.png"/>   Watching Youtube Videos (very random videos)
+#### What I want to do in the future:
+- 🎓  Planning to apply for university (after I've completed my polytechnic diploma and NS)
 
 ### Technologies and Programs
 
 [![My most used languages on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelhypercube)](https://github.com/pixelhypercube/github-readme-stats)
+
+### My Github Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=pixelhypercube&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Languages (used in official projects)
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=00b078)
@@ -43,23 +63,6 @@ You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</
 ![](https://img.shields.io/badge/Microsoft%20Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=bf004d)
 ![](https://img.shields.io/badge/Microsoft%20Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=bf004d)
 
-#### Where am I studying?
-- 🏫  Singapore Polytechnic (Diploma in Information Technology) (3rd year)
-#### My programming experience
-- 📅  Started learning programming in late 2018 (around 2.5 years of experience)
-- 📖  Aspires to learn as many things as possible
-- 👨‍💻  Enjoys developing tools and programs
-#### My other hobbies (apart from programming):
-- 🎮  Video Games (especially Minecraft)
-- 🏃  Running (distance running)
-- 📖  Reading (usually online articles)
-- 🧮  Mathematics (curious about different concepts)
-- 🌎  Languages (learning it just for fun, mostly self learning Japanese (日本語) at the moment!)
-- 🎵  Listening To Music (mostly videogame music)
-- <img width="24px" src="https://user-images.githubusercontent.com/54231827/110572301-1b69e600-8194-11eb-88e5-c20d2e855794.png"/>   Watching Youtube Videos (very random videos)
-#### What I want to do in the future:
-- 🎓  Planning to apply for university (after I've completed my polytechnic diploma and NS)
-
 ### Some random facts about me:
 | #  | Fact |
 | ------------- | ------------- |
@@ -72,8 +75,6 @@ You can also call me <strong>KJ</strong> (for short) or <strong>PixelHyperCube</
 | 7  | I think I'm more of a cat person, but I'm allergic to cats when I was tested as a child. 😺 |
 | 8  | I'm a tea drinker, but not a coffee drinker. 🍵 |
 
-### My Github Stats
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=pixelhypercube&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pixelhypercube/pixelhypercube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
