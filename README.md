@@ -63,18 +63,19 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 ![](https://img.shields.io/badge/Microsoft%20Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=bf004d)
 ![](https://img.shields.io/badge/Microsoft%20Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=bf004d)
 
-### Some random facts about me:
+### 10 random facts about me:
 | #  | Fact |
 | ------------- | ------------- |
 | 1  | I may want to add 'Kendric' to my name in the future.  |
 | 2  | My personality type at the moment is INTJ (Architect), according to https://www.16personalities.com/ <br> - However, it doesn't define me. |
 | 3  | Minecraft has been my all-time favorite game since late 2012 (coming closer to 9 years!). 🎮 |
 | 4  | I like to cook fried rice during my free time. 🧑‍🍳 |
-| 5  | I used to be very perfectionistic when I was younger, but I've learned how to manage it better right now. |
+| 5  | I used to be extremely perfectionistic when I was younger, but I've learned how to manage it better right now. |
 | 6  | Maths was my favorite subject in school (Now my 2nd fav as computing is now my fav thing to study). 🧮 |
 | 7  | I think I'm more of a cat person, but I'm allergic to cats when I was tested as a child. 😺 |
 | 8  | I'm a tea drinker, but not a coffee drinker. 🍵 |
-
+| 9  | I'm not good in language skills, as I had a language delay when I was younger 😢.<br>- Will gladly appreciate if you can excuse my weird sentence structures! 😂 |
+| 10  | I was a picky eater when I was young - my diet choices were only limited to porridge, french fries and nuggets as a kid 🍟 |
 
 <!--
 **pixelhypercube/pixelhypercube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
