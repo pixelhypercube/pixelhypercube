@@ -5,6 +5,7 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 
 #### Where am I studying?
 - 🏫  Singapore Polytechnic (Diploma in Information Technology) (3rd year)
+  - 🏢 Currently interning at <strong>Leaptron Engineering Pte. Ltd.</strong>
 #### My programming experience
 - 📅  Started learning programming in late 2018 (around 2.5 years of experience)
 - 📖  Aspires to learn as many things as possible
