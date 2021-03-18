@@ -69,10 +69,10 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 | ------------- | ------------- |
 | 1  | I may want to add 'Kendric' to my name in the future.  |
 | 2  | My personality type at the moment is INTJ (Architect), according to https://www.16personalities.com/ <br> - However, it doesn't define me. |
-| 3  | Minecraft has been my all-time favorite game since late 2012 (coming closer to 9 years!). 🎮 |
-| 4  | I like to cook fried rice during my free time. 🧑‍🍳 |
-| 5  | I used to be extremely perfectionistic when I was younger, but I've learned how to manage it better right now. |
-| 6  | Maths was my favorite subject in school (Now my 2nd fav as computing is now my fav thing to study). 🧮 |
+| 3  | I like to cook fried rice during my free time. 🧑‍🍳 |
+| 4  | I used to be extremely perfectionistic when I was younger, but I've learned how to manage it better right now. |
+| 5  | Maths was my favorite subject in school (Now my 2nd fav as computing is now my fav thing to study). 🧮 |
+| 6  | I'm sort of a Pi (π) nerd, because I'm very fasscinated with the digits of π and it's my favorite mathematical constant. <br> - Because of that, I usually log π miles (3.14 miles) during my runs!|
 | 7  | I think I'm more of a cat person, but I'm allergic to cats when I was tested as a child. 😺 |
 | 8  | I'm a tea drinker, but not a coffee drinker. 🍵 |
 | 9  | I'm not good in language skills, as I had a language delay when I was younger 😢.<br>- Will gladly appreciate if you can excuse my weird sentence structures! 😂 |
