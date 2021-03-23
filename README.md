@@ -19,7 +19,7 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 - 🎵  Listening To Music (mostly videogame music)
 - <img width="20px" src="https://user-images.githubusercontent.com/54231827/110572301-1b69e600-8194-11eb-88e5-c20d2e855794.png"/>   Watching Youtube Videos (very random videos)
 #### What I want to do in the future:
-- 🎓  Planning to apply for university (after I've finishing my polytechnic diploma and NS)
+- 🎓  Planning to apply for a computer science degree (after I've finishing my polytechnic diploma and NS)
 
 ### Technologies and Programs
 
@@ -37,9 +37,9 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 <br>![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00598c)
 <br>![](https://img.shields.io/badge/DB-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=00598c)
 <br>![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=00598c)
+<br>![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=cc00dd)
 
 #### My Languages (not used in official projects)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=cc00dd)
 <br>![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=cc00dd) (partial fluency)
 <br>![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=cc00dd) (partial fluency)
 <br>![](https://img.shields.io/badge/Console-Shell-informational?style=flat&logo=windows-terminal&logoColor=white&color=cc00dd) (elementary fluency)
