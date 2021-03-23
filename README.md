@@ -34,10 +34,10 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 <br>![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=cc00dd)
 <br>![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=cc00dd)
 <br>![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=cc00dd)
+<br>![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=cc00dd)
 <br>![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00598c)
 <br>![](https://img.shields.io/badge/DB-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=00598c)
 <br>![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=00598c)
-<br>![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=cc00dd)
 
 #### My Languages (not used in official projects)
 <br>![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=cc00dd) (partial fluency)
