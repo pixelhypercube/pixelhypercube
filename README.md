@@ -1,25 +1,24 @@
-<h1 align="center">👋 Hi! I'm Kai Jie (张凯杰) 👋</h1>
+<h1 align="center">👋 Hi! I'm Kai Jie! 👋</h1>
 
-I'm currently a student from Singapore who is currently studying at Singapore Polytechnic with a passion for computers and is curious about vast depths of IT.
+I'm currently a student currently studying at Singapore Polytechnic who has a passion in computers and technology!
+<br>
 I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</strong> (my gaming name)! 😉
 
 #### Where am I studying?
 - 🏫  Singapore Polytechnic (Diploma in Information Technology) (3rd year)
-  - 🏢 Currently interning at <strong>Leaptron Engineering Pte. Ltd.</strong>
+  - 🏢 Currently interning at <strong>Leaptron Engineering Pte. Ltd.</strong> as a software engineer
 #### My programming experience
-- 📅  Started learning programming in late 2018 (around 2.5 years of experience)
-- 📖  Aspires to learn as many things as possible
-- 👨‍💻  Enjoys developing tools and programs
-#### My other hobbies (apart from programming):
+- 📅  Started learning programming in late 2018 (coming to 3 years of experience)
+#### My hobbies:
 - 🎮  Video Games (mostly Minecraft)
 - 🏃  Running (distance running)
 - 📖  Reading (usually online articles)
-- 🧮  Mathematics (curious about different concepts)
-- 🌎  Languages (learning it just for fun, mostly self learning Japanese (日本語) at the moment!)
+- 🌎  Learning Japanese (よろしくお願いします！)
 - 🎵  Listening To Music (mostly videogame music)
 - <img width="20px" src="https://user-images.githubusercontent.com/54231827/110572301-1b69e600-8194-11eb-88e5-c20d2e855794.png"/>   Watching Youtube Videos (very random videos)
+- 🏞 Exploring Singapore (due to covid)
 #### What I want to do in the future:
-- 🎓  Planning to apply for a computer science degree (after I've finishing my polytechnic diploma and NS)
+- 🎓  Planning to apply for a computer science degree (after I'm done with polytechnic and NS!)
 
 ### Technologies and Programs
 
@@ -67,16 +66,16 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 ### 10 random facts about me:
 | #  | Fact |
 | ------------- | ------------- |
-| 1  | I may want to add 'Kendric' to my name in the future.  |
-| 2  | My personality type at the moment is INTJ (Architect), according to https://www.16personalities.com/ <br> - However, it doesn't define me. |
-| 3  | I like to cook fried rice during my free time. 🧑‍🍳 |
-| 4  | I used to be extremely perfectionistic when I was younger, but I've learned how to manage it better right now. |
+| 1  | I want to add 'Kendric' to my name after graduating from Polytechnic!  |
+| 2  | My names in other languages are:<br> - Chinese: 张凯杰 (zhāng kǎi jié) <br> - Japanese (for fun 😂): 凱傑（かいけつ）(kaiketsu) |
+| 3  | My personality type happens to be INTJ (Architect), according to https://www.16personalities.com/ <br> - However, it doesn't define me. |
+| 4  | I like to cook fried rice during my free time. 🧑‍🍳 |
 | 5  | Maths was my favorite subject in school (Now my 2nd fav as computing is now my fav thing to study). 🧮 |
 | 6  | I'm sort of a Pi (π) nerd, as I'm very fascinated with the digits of π and it's my favorite mathematical constant. <br> - Because of that, I usually log π miles (3.14 miles) during my runs!|
 | 7  | I think I'm more of a cat person, but I'm allergic to cats when I was tested as a child. 😺 |
 | 8  | I'm a tea drinker, but not a coffee drinker. 🍵 |
-| 9  | I'm not good in language skills, as I had a language delay when I was younger 😢.<br>- Will gladly appreciate if you can excuse my weird sentence structures! 😂 |
-| 10  | I was a picky eater when I was young - my diet choices were only limited to porridge, french fries and nuggets as a kid 🍟 |
+| 9  | I was a picky eater when I was young - my diet choices were only limited to porridge, french fries and nuggets as a kid 🍟 |
+| 10 | Recently, I happen to listen to a lot of Mario game soundtracks, such as those from <strong>Super Mario 64</strong> and <strong>Super Mario All Stars</strong> |
 
 <!--
 **pixelhypercube/pixelhypercube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
