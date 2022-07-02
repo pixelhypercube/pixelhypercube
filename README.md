@@ -75,7 +75,7 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 | 7  |😺🐶 I'm both a cat and dog person now, but I used to be a cat person when I was younger! |
 | 8  | I'm a tea drinker, but not a coffee drinker. 🍵 (coffee can make me go hyper sometimes!) |
 | 9  | I was a picky eater when I was young - my diet choices were only limited to porridge, french fries and nuggets as a kid 🍟 |
-| 10 | [Sethbling](https://www.youtube.com/channel/UC8aG3LDTDwNR1UQhSn9uVrw)'s videos were one of my biggest inspirations to computer science! Go check his [Minecraft Atari](https://www.youtube.com/watch?v=mq7T5_xH24M) emulator out!!! |
+| 10 | [Sethbling](https://www.youtube.com/channel/UC8aG3LDTDwNR1UQhSn9uVrw)'s videos were one of my biggest inspirations to computer science! Go check his [Minecraft Atari Emulator](https://www.youtube.com/watch?v=mq7T5_xH24M) out!!! |
 
 <!--
 **pixelhypercube/pixelhypercube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
