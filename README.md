@@ -18,7 +18,7 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 - <img width="20px" src="https://user-images.githubusercontent.com/54231827/110572301-1b69e600-8194-11eb-88e5-c20d2e855794.png"/>   Watching Youtube Videos (very random videos)
 - 🏞 Exploring places
 <br>
-<sup>* National Service (NS) is a mandatory 2 year military service for all male Singaporean citizens and permanent residents. In my case, this will take effect after I've graduated from Polytechnic, so my education progress will be postponed for about 2 years before entering university (if I can get in!)</sup>
+<sup>* National Service (NS) is a mandatory 2 year military service for all male Singaporean citizens and permanent residents. In my case, this will take effect after I've graduated from Polytechnic, so my education progress will be postponed for about 2 years before entering university</sup>
 
 ### Technologies and Programs
 
