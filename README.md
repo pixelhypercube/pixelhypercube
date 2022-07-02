@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi! I'm Kai Jie (he/him)! 👋</h1>
 
-I'm a graduate from Singapore Polytechnic who has a passion in computers and technology!
+I'm an Information Technology diploma graduate from Singapore Polytechnic who is matriculating at Nanyang Technological University to read Computer Science in 2024 after serving *National Service!
 <br>
 I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</strong> (my gaming name)! 😉
 
@@ -17,8 +17,6 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 - 🌎  Learning Japanese (よろしくお願いします！)
 - <img width="20px" src="https://user-images.githubusercontent.com/54231827/110572301-1b69e600-8194-11eb-88e5-c20d2e855794.png"/>   Watching Youtube Videos (very random videos)
 - 🏞 Exploring places
-#### What I want to do in the future:
-- 🎓  Planning to apply for a computer science degree (after completing National Service!)
 <br>
 <sup>* National Service (NS) is a mandatory 2 year military service for all male Singaporean citizens and permanent residents. In my case, this will take effect after I've graduated from Polytechnic, so my education progress will be postponed for about 2 years before entering university (if I can get in!)</sup>
 
@@ -77,9 +75,7 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 | 7  |😺🐶 I'm both a cat and dog person now, but I used to be a cat person when I was younger! |
 | 8  | I'm a tea drinker, but not a coffee drinker. 🍵 (coffee can make me go hyper sometimes!) |
 | 9  | I was a picky eater when I was young - my diet choices were only limited to porridge, french fries and nuggets as a kid 🍟 |
-| 10 | Video game music is one of my favourite genres of music! Also, the '[Zelda and Chill](https://www.youtube.com/watch?v=GdzrrWA8e7A)'* album series is one of my favourites! |
-
-<sup>* It also includes '[Zelda and Chill II](https://www.youtube.com/watch?v=rJlY1uKL87k)' and eventually 'Zelda and Chill III' when it's released (really hyped up for the release!!!) </sup>
+| 10 | [Sethbling](https://www.youtube.com/channel/UC8aG3LDTDwNR1UQhSn9uVrw)'s videos were one of my biggest inspirations to computer science! Go check his [Atari](https://www.youtube.com/watch?v=mq7T5_xH24M) emulator out!!! |
 
 <!--
 **pixelhypercube/pixelhypercube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
