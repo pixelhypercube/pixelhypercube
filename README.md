@@ -69,7 +69,7 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 | 1  | I have plans to add 'Kendric' to my name after graduating from Polytechnic!  |
 | 2  | My left thumb is curved but my right thimb is straight! 👍 |
 | 3  | I'm a cishet (cisgender & straight) guy |
-| 4  | I like to cook fried rice during my free time! 🧑‍🍳 (thanks Uncle Roger fuiyoh!) |
+| 4  | I like to cook fried rice during my free time! 🧑‍🍳 (thanks [Uncle Roger](https://www.youtube.com/c/mrnigelng) fuiyoh!) |
 | 5  | Maths was my favorite subject in school (Now my 2nd fav as computing is now my fav thing to study). 🧮 |
 | 6  | I'm sort of a Pi (π) nerd, as I'm very fascinated with the digits of π and it's my favorite mathematical constant. <br> - Because of that, I usually log π miles (3.14 miles) during my runs! |
 | 7  |😺🐶 I'm both a cat and dog person now, but I used to be a cat person when I was younger! |
