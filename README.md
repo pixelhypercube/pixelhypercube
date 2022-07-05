@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi! I'm Kai Jie (he/him)! 👋</h1>
 
-I'm an Information Technology diploma graduate from Singapore Polytechnic who is matriculating at Nanyang Technological University to read Computer Science in 2024 after serving *National Service!
+I'm an Information Technology diploma graduate from Singapore Polytechnic who is matriculating at Nanyang Technological University (NTU) to read Computer Science in 2024 after completing National Service*!
 <br>
 I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</strong> (my gaming name)! 😉
 
@@ -18,7 +18,7 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 - <img width="20px" src="https://user-images.githubusercontent.com/54231827/110572301-1b69e600-8194-11eb-88e5-c20d2e855794.png"/>   Watching Youtube Videos (very random videos)
 - 🏞 Exploring places
 <br>
-<sup>* National Service (NS) is a mandatory 2 year military service for all male Singaporean citizens and permanent residents. In my case, this will take effect after I've graduated from Polytechnic, so my education progress will be postponed for about 2 years before entering university</sup>
+<sup>* National Service (NS) is a mandatory 2 year military service for all male Singaporean citizens and second-generation permanent residents. In my case, this will take effect after I've graduated from Singapore Polytechnic, so my education progress will be postponed for about 2 years before entering university</sup>
 
 ### Technologies and Programs
 
@@ -75,7 +75,7 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 | 7  |😺🐶 I'm both a cat and dog person now, but I used to be a cat person when I was younger! |
 | 8  | I'm a tea drinker, but not a coffee drinker. 🍵 (coffee can make me go hyper sometimes!) |
 | 9  | I was a picky eater when I was young - my diet choices were only limited to porridge, french fries and nuggets as a kid 🍟 |
-| 10 | [Sethbling](https://www.youtube.com/channel/UC8aG3LDTDwNR1UQhSn9uVrw)'s videos were one of my biggest inspirations to computer science! Go check out his [Minecraft Atari Emulator](https://www.youtube.com/watch?v=mq7T5_xH24M)!!! |
+| 10 | [Sethbling](https://www.youtube.com/channel/UC8aG3LDTDwNR1UQhSn9uVrw)'s videos are one of my biggest inspirations to computer science! Go check out his [Minecraft Atari Emulator](https://www.youtube.com/watch?v=mq7T5_xH24M)!!! |
 
 <!--
 **pixelhypercube/pixelhypercube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
