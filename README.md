@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi! I'm Kai Jie (he/him)! 👋</h1>
+<h1 align="center">👋 Hi! I'm Kendrick (he/him)! 👋</h1>
 
+P.S. I decided to add "Kendrick" to my original name, Teo Kai Jie, as I have a feeling that my original name, "Kai Jie" may be mispronounced by some and that I personally feel more comfortable using it 😉
+<hr>
 I'm an Information Technology diploma graduate from Singapore Polytechnic who is matriculating at Nanyang Technological University (NTU) to read Computer Science in 2024 after completing National Service*!
-<br>
-I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</strong> (my gaming name)! 😉
 
 #### Where have I studied?
 - 🏫  Singapore Polytechnic (Diploma in Information Technology)
@@ -66,7 +66,7 @@ I'm also known as <strong>KJ</strong> (for short) or <strong>PixelHyperCube</str
 ### 10 random facts about me:
 | #  | Fact |
 | ------------- | ------------- |
-| 1  | I have plans to add 'Kendric' to my name after graduating from Polytechnic!  |
+| 1  | I have plans to add 'Kendrick' to my name after graduating from Polytechnic! ✅ (completed!)  |
 | 2  | My left thumb is curved but my right thimb is straight! 👍 |
 | 3  | I'm a cishet (cisgender & straight) guy |
 | 4  | I like to cook fried rice during my free time! 🧑‍🍳 (thanks [Uncle Roger](https://www.youtube.com/c/mrnigelng) fuiyoh!) |
