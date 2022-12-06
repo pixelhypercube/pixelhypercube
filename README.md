@@ -1,7 +1,5 @@
-<h1 align="center">👋 Hi! I'm Kendrick (he/him)! 👋</h1>
+<h1 align="center">👋 Hi! I'm Kai Jie "KJ" (he/him)! 👋</h1>
 
-P.S. I decided to add "Kendrick" to my original name, Teo Kai Jie, as I have a feeling that my original name, "Kai Jie" may be mispronounced by some and that I personally feel more comfortable using it 😉
-<hr>
 I'm an Information Technology diploma graduate from Singapore Polytechnic who is matriculating at Nanyang Technological University (NTU) to read Computer Science in 2024 after completing National Service*!
 
 #### Where have I studied?
