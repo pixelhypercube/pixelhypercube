@@ -1,9 +1,10 @@
 <h1 align="center">👋 Hi! I'm Kai Jie "KJ" (he/him)! 👋</h1>
 
-I'm an Information Technology diploma graduate from Singapore Polytechnic who is matriculating at Nanyang Technological University (NTU) to read Computer Science in 2024 after completing National Service*!
+Just your average computer science student studying in Nanyang Technological University (NTU)! 😊
 
 #### Where have I studied?
-- 🏫  Singapore Polytechnic (Diploma in Information Technology)
+- 🎓 Nanyang Technological University (NTU) (Bachelor's in Computer Science) (2024-present)
+- 🏫  Singapore Polytechnic (Diploma in Information Technology) (2019-2022)
   - 🏢 Interned at <strong>Leaptron Engineering Pte. Ltd.</strong> as a software engineer for 7 months
 #### My programming experience
 - 📅  Started learning programming in late 2018 (~ 3 years of experience)
@@ -16,7 +17,6 @@ I'm an Information Technology diploma graduate from Singapore Polytechnic who is
 - <img width="20px" src="https://user-images.githubusercontent.com/54231827/110572301-1b69e600-8194-11eb-88e5-c20d2e855794.png"/>   Watching Youtube Videos (very random videos)
 - 🏞 Exploring places
 <br>
-<sup>* National Service (NS) is a mandatory 2 year military service for all male Singaporean citizens and second-generation permanent residents. In my case, this will take effect after I've graduated from Singapore Polytechnic, so my education progress will be postponed for about 2 years before entering university</sup>
 
 ### Technologies and Programs
 
